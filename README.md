@@ -9,9 +9,7 @@
 
 3. Utilizar [Font Awesome](https://fontawesome.com/) para añadir un icono de página
 
-4. Debajo del encabezado **Anatomía de una regla en CSS** añadir la imagen regla_css.jpg encontrada en el directorio **resources**
-
-5. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
+4. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
     * Regla 1. Utilizar el selector universal `*` para cambiar el tipo de fuente del documento
 
@@ -37,4 +35,4 @@
     
     * Regla 12. Los elementos `img` tendrán un ancho `width` de `100%`, un `border: solid darkcyan 1px;` y esquinas redondeadas con valor de `5px`
 
-6. Utilizar GitHub Pages para desplegar la web en internet
+5. Utilizar GitHub Pages para desplegar la web en internet
